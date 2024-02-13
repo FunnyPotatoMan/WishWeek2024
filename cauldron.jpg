@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        @import url('https://fonts.cdnfonts.com/css/harry-potter'); 
+        li a:hover {
+            Background-color:#111;
+        }       
+        h2 {
+            font-family: 'Harry Potter';
+            font-size: 200%;
+        }
+    </style>
+    <head>
+        <title>
+            Wish Week Events
+        </title>
+    </head>
+    <body style="font-family: 'Helvetica'; width: 80%; margin: auto;">
+        <ul style="list-style-type: none; margin: 0; padding: 0; overflow: hidden; background-color: #333;">
+            <li style="float: left;"><a style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;" href="index.html">Home</a></li>
+            <li style="float: left;"><a style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;" href="restaurants.html">Restaurants</a></li>
+            <li style="float: left;"><a style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;" href="kid.html">Meet Addison</a></li>
+            <li style="float: left;"><a style="display: block; color: white; text-align: center; padding: 14px 16px; text-decoration: none;" href="dressup.html">Dressup Days</a></li>
+        </ul>
+        <h1 style="font-family: 'Harry Potter', sans-serif; color:Maroon; text-align:center; font-size: 300%;">Whats Happening this Week</h1>
+        <p style="text-align: center; font-size: 75%;">Over the course of wish week 2024 several events will be taking place.</p>
+        <hr>
+        <h2 style="text-align: right; color:#F29F05;">Monday</h2>
+            <ul>
+                <li>Opening Assembly</li>
+                <li>Vista Idol</li>
+            </ul>
+        <hr>
+        <h2 style="\text-align: right; color:#F29F05;">Tuesday</h2>
+            <ul>
+                <li>Basketball triple header</li>
+            </ul>
+        <hr>
+        <h2 style="text-align: right; color:#F29F05;">Wednesday</h2>
+            <ul>
+                <li>Hockey Game</li>
+                <li>Ice Skating</li>
+            </ul>
+        <hr>
+        <h2 style="text-align: right; color:#F29F05;">Thursday</h2>
+            <ul>
+                <li>Wish Ralley</li>
+                <li>Comunity Fair</li>
+            </ul>
+        <hr>
+        <h2 style="text-align: right; color:#F29F05;">Friday</h2>
+            <ul>
+                <li>Basketball double header</li>
+            </ul>
+        <hr>
+        <h2>
+    </body>
+</html>

@@ -1,0 +1,39 @@
+.link{
+    text-decoration:none;
+    font-family:  sans-serif; 
+    font-size:20px;
+    color:#A60303;
+    font-weight:bold;
+
+}
+
+.link:hover{
+
+    color:blue;
+    transition: 200ms linear 50ms;
+}
+
+h3{
+    text-decoration:underline;
+    font-size:25px;
+}
+.testing{
+    animation-name: test;
+    animation: test 1s normal forwards ease-in-out;
+
+    opacity:0;
+}
+@keyframes test{
+    50%{
+        opacity:.2;
+    }
+        75%{
+        opacity:.45;
+    }
+        80%{
+        opacity:.7;
+    }
+        100%{
+        opacity:1;
+    }
+}
